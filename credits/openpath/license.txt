@@ -1,0 +1,9 @@
+License: CC Attribution 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Source: 
+https://archive.org/details/OpenPathMusic44V1
+https://archive.org/details/OpenPathMusic44V2
+https://archive.org/details/OpenPathMusic44V3
+https://archive.org/details/OpenPathMusic44V4
+https://archive.org/details/OpenPathMusic44V5
+
+Original Source: https://wiki.laptop.org/go/Free_sound_samples

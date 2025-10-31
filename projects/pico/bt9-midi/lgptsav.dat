@@ -1,0 +1,585 @@
+<PICOTRACKER>
+    <PROJECT VERSION="2.0-RC3">
+        <PARAMETER NAME="tempo" VALUE="86"/>
+        <PARAMETER NAME="master" VALUE="100"/>
+        <PARAMETER NAME="wrap" VALUE="false"/>
+        <PARAMETER NAME="transpose" VALUE="0"/>
+        <PARAMETER NAME="scale" VALUE="None (Chromatic)"/>
+        <PARAMETER NAME="projectname" VALUE="bt9-midi"/>
+    </PROJECT>
+    <SONG>
+        <SONG>
+            <DATA>0001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+        </SONG>
+        <CHAINS>
+            <DATA>00010203047FFFFFFFFFFFFFFFFFFFFF000111127F7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA>1011FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="48"/>
+        </CHAINS>
+        <TRANSPOSES>
+            <DATA>00000000000000000000000000000000181800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</DATA>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="48"/>
+        </TRANSPOSES>
+        <NOTES>
+            <DATA>FF2B2B2B27FFFFFFFFFFFFFFFFFFFFFFFF29292926FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF434343FF444444FF4B4B4B48FFFFFF434343FF444444FFFF</DATA>
+            <DATA>4F4F4DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA>FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3CFFFFFFFFFFFFFFFFFFFFFFFFFFFF3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+        </NOTES>
+        <INSTRUMENTS>
+            <DATA>FF00000000FFFFFFFFFFFFFFFFFFFFFFFF00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF000000FF00000000FFFFFF000000FF000000FFFF</DATA>
+            <DATA>000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA>FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF01FFFFFFFFFFFFFFFFFFFFFFFFFFFF00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+            <DATA VALUE="255" LENGTH="64"/>
+        </INSTRUMENTS>
+        <COMMAND1>
+            <DATA>2D8F8F8F8F2D2D2D2D2D2D2D2D2D2D2D2D8F2D8F8F2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D</DATA>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA>2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D8F2D2D2D8F2D2D2D2D2D2D2D2D2D2D8F2D2D2D8F2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D</DATA>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA>00000C000C000C000C000000000000000000000000000000000000000000000000000C0000000C000C0000000000000000000000000000000000000000000000</DATA>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000000000007300</DATA>
+            <DATA>00000000000000000000000000000000000000000300000000000000830000000000000000000000000000000000000000000000000000000000000000000000</DATA>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+        </COMMAND1>
+        <PARAM1>
+            <DATA>00000C000C000C000C000000000000000000000000000000000000000000000000000C0000000C000C0000000000000000000000000000000000000000000000</DATA>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000000000007300</DATA>
+            <DATA>00000000000000000000000000000000000000000300000000000000830000000000000000000000000000000000000000000000000000000000000000000000</DATA>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+        </PARAM1>
+        <COMMAND2>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="45" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+        </COMMAND2>
+        <PARAM2>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+            <DATA VALUE="0" LENGTH="64"/>
+        </PARAM2>
+    </SONG>
+    <INSTRUMENTBANK>
+        <INSTRUMENT ID="00" TYPE="MIDI">
+            <PARAM NAME="channel" VALUE="0"/>
+            <PARAM NAME="note length" VALUE="0"/>
+            <PARAM NAME="volume" VALUE="255"/>
+            <PARAM NAME="table" VALUE="-1"/>
+            <PARAM NAME="table automation" VALUE="false"/>
+        </INSTRUMENT>
+        <INSTRUMENT ID="01" TYPE="MIDI">
+            <PARAM NAME="channel" VALUE="0"/>
+            <PARAM NAME="note length" VALUE="0"/>
+            <PARAM NAME="volume" VALUE="255"/>
+            <PARAM NAME="table" VALUE="-1"/>
+            <PARAM NAME="table automation" VALUE="false"/>
+        </INSTRUMENT>
+        <INSTRUMENT ID="02" TYPE="MIDI">
+            <PARAM NAME="channel" VALUE="0"/>
+            <PARAM NAME="note length" VALUE="0"/>
+            <PARAM NAME="volume" VALUE="255"/>
+            <PARAM NAME="table" VALUE="-1"/>
+            <PARAM NAME="table automation" VALUE="false"/>
+        </INSTRUMENT>
+        <INSTRUMENT ID="03" TYPE="MIDI">
+            <PARAM NAME="channel" VALUE="0"/>
+            <PARAM NAME="note length" VALUE="111"/>
+            <PARAM NAME="volume" VALUE="221"/>
+            <PARAM NAME="table" VALUE="-1"/>
+            <PARAM NAME="table automation" VALUE="false"/>
+        </INSTRUMENT>
+        <INSTRUMENT ID="04" TYPE="MIDI">
+            <PARAM NAME="channel" VALUE="0"/>
+            <PARAM NAME="note length" VALUE="255"/>
+            <PARAM NAME="volume" VALUE="207"/>
+            <PARAM NAME="table" VALUE="-1"/>
+            <PARAM NAME="table automation" VALUE="false"/>
+        </INSTRUMENT>
+        <INSTRUMENT ID="05" TYPE="MIDI">
+            <PARAM NAME="channel" VALUE="0"/>
+            <PARAM NAME="note length" VALUE="240"/>
+            <PARAM NAME="volume" VALUE="223"/>
+            <PARAM NAME="table" VALUE="-1"/>
+            <PARAM NAME="table automation" VALUE="false"/>
+        </INSTRUMENT>
+    </INSTRUMENTBANK>
+    <TABLES>
+        <TABLE ID="00"/>
+        <TABLE ID="01"/>
+        <TABLE ID="02"/>
+        <TABLE ID="03"/>
+        <TABLE ID="04"/>
+        <TABLE ID="05"/>
+        <TABLE ID="06"/>
+        <TABLE ID="07"/>
+        <TABLE ID="08"/>
+        <TABLE ID="09"/>
+        <TABLE ID="0A"/>
+        <TABLE ID="0B"/>
+        <TABLE ID="0C"/>
+        <TABLE ID="0D"/>
+        <TABLE ID="0E"/>
+        <TABLE ID="0F"/>
+        <TABLE ID="10"/>
+        <TABLE ID="11"/>
+        <TABLE ID="12"/>
+        <TABLE ID="13"/>
+        <TABLE ID="14"/>
+        <TABLE ID="15"/>
+        <TABLE ID="16"/>
+        <TABLE ID="17"/>
+        <TABLE ID="18"/>
+        <TABLE ID="19"/>
+        <TABLE ID="1A"/>
+        <TABLE ID="1B"/>
+        <TABLE ID="1C"/>
+        <TABLE ID="1D"/>
+        <TABLE ID="1E"/>
+        <TABLE ID="1F"/>
+    </TABLES>
+    <GROOVES>
+        <DATA>
+            <DATA>0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA>0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA>0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA>0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA>0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA>0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA>0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF</DATA>
+            <DATA>0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606FFFFFFFFFFFFFFFFFFFFFFFFFFFF0606000000000000000000000000000006060000000000000000000000000000</DATA>
+        </DATA>
+    </GROOVES>
+    <MIXER/>
+</PICOTRACKER>

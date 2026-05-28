@@ -14,20 +14,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Make create_zips.sh executable
-        run: chmod +x create_zips.sh
+      - name: Make make_content.sh executable
+        run: chmod +x make_content.sh
 
-      - name: Run create_zips.sh
-        run: ./create_zips.sh
+      - name: Run make_content.sh
+        run: ./make_content.sh
 
-      - name: Upload pico-sd.zip
+      - name: Upload pico-sd content
         uses: actions/upload-artifact@v4
         with:
-          name: pico-sd.zip
-          path: pico-sd.zip
+          name: pico-sd
+          path: pico-temp/
 
-      - name: Upload advance-sd.zip
+      - name: Upload advance-sd content
         uses: actions/upload-artifact@v4
         with:
-          name: advance-sd.zip
-          path: advance-sd.zip
+          name: advance-sd
+          path: advance-temp/

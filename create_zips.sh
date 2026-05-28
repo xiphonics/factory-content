@@ -49,7 +49,10 @@ echo "Creating pico-sd.zip..."
 mkdir -p pico-temp/projects
 cp -r themes pico-temp/
 copy_and_truncate_samples "samples" "pico-temp/samples"
-cp -r instruments pico-temp/
+# Copy instruments if it exists
+if [ -d "instruments" ]; then
+    cp -r instruments pico-temp/
+fi
 # Check if projects/pico exists and has content
 if [ -d "projects/pico" ] && [ -n "$(ls -A projects/pico)" ]; then
     cp -r projects/pico/* pico-temp/projects/
@@ -63,7 +66,10 @@ echo "Creating advance-sd.zip..."
 mkdir -p advance-temp/projects
 cp -r themes advance-temp/
 copy_and_truncate_samples "samples" "advance-temp/samples"
-cp -r instruments advance-temp/
+# Copy instruments if it exists
+if [ -d "instruments" ]; then
+    cp -r instruments advance-temp/
+fi
 # Check if projects/advance exists and has content
 if [ -d "projects/advance" ] && [ -n "$(ls -A projects/advance)" ]; then
     cp -r projects/advance/* advance-temp/projects/

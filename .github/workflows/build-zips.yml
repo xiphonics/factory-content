@@ -1,0 +1,33 @@
+name: Build ZIP Artifacts
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Make make_content.sh executable
+        run: chmod +x make_content.sh
+
+      - name: Run make_content.sh
+        run: ./make_content.sh
+
+      - name: Upload pico-sd content
+        uses: actions/upload-artifact@v4
+        with:
+          name: pico-sd
+          path: pico-temp/
+
+      - name: Upload advance-sd content
+        uses: actions/upload-artifact@v4
+        with:
+          name: advance-sd
+          path: advance-temp/

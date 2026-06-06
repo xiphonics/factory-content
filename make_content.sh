@@ -44,26 +44,30 @@ copy_and_truncate_samples() {
   done
 }
 
-# Create pico-sd.zip
-echo "Creating pico-sd.zip..."
+# Create pico-sd content
+echo "Preparing pico-sd content..."
 mkdir -p pico-temp/projects
 cp -r themes pico-temp/
 copy_and_truncate_samples "samples" "pico-temp/samples"
-cp -r instruments pico-temp/
+# Copy instruments if it exists
+if [ -d "instruments" ]; then
+    cp -r instruments pico-temp/
+fi
 # Check if projects/pico exists and has content
 if [ -d "projects/pico" ] && [ -n "$(ls -A projects/pico)" ]; then
     cp -r projects/pico/* pico-temp/projects/
 fi
-(cd pico-temp && zip -r ../pico-sd.zip .)
-rm -rf pico-temp
-echo "pico-sd.zip created."
+echo "pico-sd content ready at pico-temp/"
 
-# Create advance-sd.zip
-echo "Creating advance-sd.zip..."
+# Create advance-sd content
+echo "Preparing advance-sd content..."
 mkdir -p advance-temp/projects
 cp -r themes advance-temp/
 copy_and_truncate_samples "samples" "advance-temp/samples"
-cp -r instruments advance-temp/
+# Copy instruments if it exists
+if [ -d "instruments" ]; then
+    cp -r instruments advance-temp/
+fi
 # Check if projects/advance exists and has content
 if [ -d "projects/advance" ] && [ -n "$(ls -A projects/advance)" ]; then
     cp -r projects/advance/* advance-temp/projects/
@@ -72,8 +76,5 @@ fi
 # create default project thats opened on first boot
 cp default-current.txt advance-temp/.current
 
-(cd advance-temp && zip -r ../advance-sd.zip .)
-rm -rf advance-temp
-echo "advance-sd.zip created."
-
+echo "advance-sd content ready at advance-temp/"
 echo "Done."
